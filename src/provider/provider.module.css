@@ -1,0 +1,15 @@
+.List {
+    height: 100vh;
+    width: 100%;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.flexWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
